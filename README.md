@@ -17,7 +17,7 @@
  
 </div>
 
-# linguagens que trabalho:
+# Linguagens que Trabalho:
 
 <div align="center" valign="top">
   <br>
@@ -37,7 +37,7 @@
  
 <div> 
 
-# minhas redes:
+# Minhas Redes:
 
 <div align="center" valign="top">
   <a align="center" href="https://www.instagram.com/g.briflex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
