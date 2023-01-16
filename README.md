@@ -1,14 +1,13 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=9C4E6A&center=true&width=1080&height=400&lines=+Bem+vindo(a)+ao+meu+perfil+Gabs+aqui+&#128526;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=DAA520&center=true&width=1080&height=350&lines=+Bem+vindo(a)+ao+meu+perfil+Gabs+aqui+&#128526;">
 
 <div align="center" valign="top">
   <a href="https://github.com/GabrielRomao-git">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=GabrielRomao-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=GabrielRomao-git&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
     </br>
   </br>
   </br>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomao-git&layout=compact&langs_count=7&theme=dracula"/>
-  </br>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomao-git&layout=compact&langs_count=7&theme=great-gatsby"/>
   </br>
 </div>
 
@@ -25,8 +24,6 @@
   <img align="center" alt="Gabs-Bootstrap" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"> 
 </div>
   <br>
-  <br>
-  
 <div> 
 
 # Minhas Redes:
@@ -36,7 +33,4 @@
   <a align="center" href = "mailto:gabrielrromao@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-romao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-  ![Snake animation](https://github.com/GabrielRomao-git/GabrielRomao-git/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
