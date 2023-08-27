@@ -7,7 +7,7 @@
     </br>
   </br>
   </br>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomao-git&layout=compact&langs_count=7&theme=great-gatsby"/>
+  
   </br>
 </div>
 
